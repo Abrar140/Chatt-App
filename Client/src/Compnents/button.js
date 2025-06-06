@@ -3,7 +3,7 @@ import React from "react";
 const Button = ({
   label = "Button",
   type = "button",
-  className = "",
+  className = "c ",
   disabled = false,
 }) => {
   return (
