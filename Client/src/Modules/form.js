@@ -100,7 +100,8 @@ function Form({ IsSignInPage = false }) {
 
           <Button
             label={IsSignInPage ? "Sign In" : "SignUp"}
-            className="   mb-4"
+            className=" sign in  "
+            // mb-4
             type="submit"
           />
         </form>
